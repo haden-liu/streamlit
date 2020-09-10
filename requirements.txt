@@ -113,7 +113,6 @@ locket==0.2.0
 lxml==4.4.1
 Markdown==3.2.2
 MarkupSafe==1.1.1
-matplotlib==3.3.1
 mccabe==0.6.1
 mistune==0.8.4
 mock==3.0.5
@@ -181,7 +180,6 @@ Pygments==2.4.2
 PyHamcrest==2.0.2
 pyLDAvis==2.1.2
 pylint==2.4.2
-pyodbc==4.0.27
 pyOpenSSL==19.0.0
 pyparsing==2.4.2
 pyreadline==2.1
