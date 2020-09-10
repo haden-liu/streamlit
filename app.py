@@ -5,7 +5,7 @@ import pydeck as pdk
 
 
 DATA_URL = (
-"https://github.com/haden-liu/data/blob/master/Jan_2020_ontime.csv"
+"Jan_2020_ontime.csv"
 )
 
 st.title("Flight Delay Analysis Jan 2020")
